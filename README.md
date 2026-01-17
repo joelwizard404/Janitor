@@ -12,13 +12,13 @@ Janitor/
 ├── Changes
 │
 ├── bin/
-│   ├── fs-cleaner
-│   ├── fs-analyze
-│   └── fs-duplicates
+│   ├── j-cleaner
+│   ├── j-analyze
+│   └── j-duplicates
 │
 ├── lib/
-│   ├── FSCleaner.pm
-│   └── FSCleaner/
+│   ├── Janitor.pm
+│   └── Janitor/
 │       ├── Config.pm
 │       ├── CLI.pm
 │       ├── DuplicateDetector.pm
